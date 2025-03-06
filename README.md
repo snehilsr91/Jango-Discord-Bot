@@ -55,6 +55,6 @@ Click the button below to invite Jango and start the adventure!
 
 ## 🛠️ Contributing  
 Want to improve Jango? Follow these steps:  
-1. **Fork the repository**  
-2. **Create a new branch**  
+1. **Invite the bot to your server**  
+2. **Use the suggest command**  
 | `/suggest <suggestion>` | Make a suggestion directly to the owner. |
