@@ -17,7 +17,8 @@ Jango is a feature-packed Discord bot offering **exciting mini-games, interactiv
 - **Classic Games** – Play Rock-Paper-Scissors, Tic-Tac-Toe, and Trivia.  
 
 ### 🎭 Fun & Interactive Commands  
-- **Anime GIF Reactions** – Express yourself with fun GIFs.  
+- **Anime GIF Reactions** – Express yourself with fun GIFs.
+- **Wanted Poster** – Generate your wanted poster with your bounty.
 - **Text Translators** – Convert text into:
   - 🏴‍☠️ Pirate Speech  
   - 🆘 Morse Code  
