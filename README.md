@@ -39,6 +39,7 @@ Jango is a feature-packed Discord bot offering **exciting mini-games, interactiv
 | `/barfight` | Join a chaotic bar brawl. |
 | `/trainheist` | Team up to rob a train. |
 | `/bottleshoot` | Test your reflexes in a bottle shooting contest. |
+| `/wanted_poster` | Generate your wanted poster. |
 | `/shop` | View and buy cowboy gear. |
 | `/equip` | Equip purchased gear. |
 | `/profile` | Check your stats and inventory. |
