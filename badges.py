@@ -3,7 +3,7 @@ from discord import app_commands
 
 BADGES = {
     #Trivia Badges
-    "🔰": "Trivia Novic",  # Badge for 1 correct answer
+    "🔰": "Trivia Novice",  # Badge for 1 correct answer
     "🥉": "Trivia Expert",  # Badge for 10 correct answers
     "🥈": "Trivia Master",  # Badge for 50 correct answers
     "🥇": "Trivia Legend",  # Badge for 200 correct answers
