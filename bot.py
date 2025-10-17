@@ -8,7 +8,7 @@ import cowboy, cowboy_shop, bottle_shooting, train_heist, jail
 import user_profile, vote, leaderboard
 import solo_gif, group_gif, helper, badges, config
 import wanted_poster
-from config import BOT_TOKEN
+from env import BOT_TOKEN
 import asyncio
 from database import cursor, free_user, time, add_xp  # Import necessary database functions
 

@@ -6,7 +6,7 @@ from aiohttp import web, ClientConnectorError  # Import ClientConnectorError
 import json
 import time
 from database import conn, update_cooldown
-from config import TOPGG_TOKEN, BOT_ID
+from env import TOPGG_TOKEN, BOT_ID
 
 def setup(bot):
     # Webhook handler for automatic vote detection
